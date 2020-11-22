@@ -1,0 +1,22 @@
+ÀÄmain
+   ÀÄMAIN  0/224  Ram=1
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄstart_signal  0/28  Ram=0
+      ³  ÀÄ@delay_ms1  0/38  Ram=1
+      ÃÄcheck_response  0/50  Ram=0
+      ÃÄRead_Data  0/144  Ram=4
+      ÃÄRead_Data  0/144  Ram=4
+      ÃÄRead_Data  0/144  Ram=4
+      ÃÄRead_Data  0/144  Ram=4
+      ÃÄRead_Data  0/144  Ram=4
+      ÃÄ@PSTRINGC_9600_31766_31767  0/34  Ram=2
+      ÃÄ@DIV88  0/40  Ram=3
+      ÃÄ@DIV88  0/40  Ram=3
+      ÃÄatoi  0/412  Ram=9
+      ³  ÀÄ@MUL88  0/76  Ram=2
+      ÃÄ@PRINTF_D_9600_31766_31767  0/180  Ram=6
+      ³  ÃÄ@DIV88  0/40  Ram=3
+      ³  ÀÄ@DIV88  0/40  Ram=3
+      ÃÄ@PSTRINGC_9600_31766_31767  0/34  Ram=2
+      ÃÄ@PSTRINGC_9600_31766_31767  0/34  Ram=2
+      ÀÄ@delay_ms1  0/38  Ram=1
